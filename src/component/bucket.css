@@ -1,0 +1,83 @@
+.c-bucket {
+	display: flex;
+	border-radius: 10px;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+}
+
+.box {
+	width: 13.5%;
+	margin: 10px;
+	border-radius: 10px;
+	font-size: x-small;
+}
+
+.d-span {
+	display: flex;
+	width: 100%;
+}
+
+.span1 {
+	flex: 30%;
+	margin-left: 10px;
+	padding: 5px;
+	margin: 5px;
+	box-sizing: border-box;
+}
+
+.span2 {
+	flex: 30%;
+	padding: 5px;
+	margin: 5px;
+	box-sizing: border-box;
+}
+
+.span3 {
+	flex: 20%;
+	margin-right: 10px;
+	padding: 5px;
+	margin: 5px;
+	box-sizing: border-box;
+}
+
+h1 {
+	display: flex;
+	flex-wrap: nowrap;
+	width: 100%;
+	padding: 5px;
+	margin: 0px;
+}
+
+h2 {
+	padding: 5px;
+	margin: 2px;
+	width: 100%;
+}
+#d-buck1 {
+	background-color: rgba(179, 160, 68, 255);
+}
+
+#d-buck2 {
+	background-color: rgba(208, 75, 68, 255);
+}
+
+#d-buck3 {
+	background-color: rgba(73, 160, 248, 255);
+}
+
+#d-buck4 {
+	background-color: rgba(30, 30, 30, 255);
+}
+
+#d-buck5 {
+	background-color: rgba(241, 158, 56, 255);
+}
+
+#d-buck6 {
+	background-color: rgba(78, 169, 56, 255);
+}
+
+#d-buck7 {
+	background-color: rgba(117, 21, 244, 255);
+}
